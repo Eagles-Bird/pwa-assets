@@ -1,7 +1,7 @@
 {
   "name": "My Basic Page",
   "short_name": "website",
-  "start_url": "https://acehotel.rf.gd/index.html",
+  "start_url": "https://acehotel.rf.gd",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
